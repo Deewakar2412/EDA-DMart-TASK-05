@@ -88,7 +88,7 @@ pip install pandas numpy matplotlib seaborn openpyxl
 
 
 
-🚀 How to Use
+##🚀 **How to Use**
 Clone this repository to your local machine:
 
 Bash
