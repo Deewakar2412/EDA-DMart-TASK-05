@@ -88,14 +88,15 @@ pip install pandas numpy matplotlib seaborn openpyxl
 
 
 
-##🚀 **How to Use**
-Clone this repository to your local machine:
+---
 
-Bash
+## 🚀 How to Use
 
-git clone <your-repository-url>
-Place the dataset dMart.xlsx in the root directory of the project.
+1.  **Clone this repository** to your local machine:
+    ```bash
+    git clone <your-repository-url>
+    ```
+2.  **Place the dataset** `dMart.xlsx` in the root directory of the project.
+3.  **Open and run** the Jupyter Notebook `EDA_Dmart.ipynb` to see the complete analysis.
 
-Open and run the Jupyter Notebook EDA_Dmart.ipynb to see the complete analysis.
-
-The cleaned data will be saved as dMart_cleaned.xlsx.
+The cleaned data will be saved as `dMart_cleaned.xlsx`.
