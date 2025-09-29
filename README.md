@@ -89,8 +89,31 @@ pip install pandas numpy matplotlib seaborn openpyxl
 
 
 ---
-## 🚀 **How to Use**
+## 🚀 How to Use
 
-1. Clone this repository to your local machine:  
+1. **Clone the Repository**  
 ```bash
 git clone <your-repository-url>
+cd D-Mart-EDA
+Dataset Setup
+
+Place the dataset dMart.xlsx in the root directory of the project.
+
+Ensure required Python libraries are installed:
+
+bash
+Copy code
+pip install pandas numpy matplotlib seaborn openpyxl
+Run Notebook
+
+Open the EDA_Dmart.ipynb file in Jupyter Notebook or JupyterLab.
+
+Run all cells to reproduce the analysis and visualizations.
+
+The cleaned dataset will be saved as dMart_cleaned.xlsx.
+
+📬 Contact
+👤 Deewakar Kumar
+📍 Bokaro, Jharkhand, India
+📧 Email: deewakara2412@gmail.com
+🔗 LinkedIn
